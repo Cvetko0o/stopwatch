@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(21, 188, 194);
+}
+
+#container {
+    
+    margin: auto;
+    width: 300px;
+    font-style: italic;
+    font-size: 250%;
+    
+}
+
+h1 {
+    text-align: center;
+    color: white;
+
+}
+
+p {
+    text-align: center;
+    color: white;
+}
+
+button {
+    background-color: rgb(88, 253, 55);
+    border: none;
+    padding: 17px 28px;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
