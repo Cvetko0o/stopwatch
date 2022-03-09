@@ -42,7 +42,7 @@ function startTime(){
     }
 
     if(seconds > 9){
-        outputSeconds.innerHTML = seconds;
+        outputSeconds.innerHTML = seconds ;
     }
 }
 
