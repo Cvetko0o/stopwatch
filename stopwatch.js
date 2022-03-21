@@ -38,7 +38,7 @@ function startTime(){
         seconds++;
         outputSeconds.innerHTML = '0' + seconds;
         tens = 0;
-        outputTen.innerHTML = '0' + tens;
+        outputTens.innerHTML = '0' + tens;
     }
 
     if(seconds > 9){
